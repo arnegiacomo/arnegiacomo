@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Arne Giacomo Munthe-Kaas — fullstack developer, Bergen](banner-dark.png#gh-dark-mode-only)](https://arnegiacomo.dev)
-[![Arne Giacomo Munthe-Kaas — fullstack developer, Bergen](banner-light.png#gh-light-mode-only)](https://arnegiacomo.dev)
+[![Arne Giacomo Munthe-Kaas — fullstack developer, Bergen](banner.png)](https://arnegiacomo.dev)
 
 </div>
 
