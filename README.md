@@ -22,7 +22,7 @@
 
 [![arnegiacomo.dev](https://img.shields.io/badge/arnegiacomo.dev-FFDC58?style=for-the-badge&logoColor=000000)](https://arnegiacomo.dev)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4A1FF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/arne-giacomo-munthe-kaas-a77510155/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4A1FF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/arne-giacomo-munthe-kaas)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-FF30CD?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:arnegiacomo@gmail.com)
 &nbsp;
