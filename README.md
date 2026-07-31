@@ -1,31 +1,32 @@
 <div align="center">
 
-# Arne Giacomo Munthe-Kaas
-
-🇳🇴🇮🇹 &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; Bergen, Norway
+[![Arne Giacomo Munthe-Kaas — fullstack developer, Bergen](banner-dark.png#gh-dark-mode-only)](https://arnegiacomo.dev)
+[![Arne Giacomo Munthe-Kaas — fullstack developer, Bergen](banner-light.png#gh-light-mode-only)](https://arnegiacomo.dev)
 
 </div>
 
 ---
 
-🚀 **Building** → [TableSummit](https://tablesummit.com/) & [fugleramme](https://github.com/arnegiacomo/fugleramme)
+**Building** → [TableSummit](https://tablesummit.com/) & [fugleramme](https://github.com/arnegiacomo/fugleramme)
 
-💼 **Working** → Software Developer @ [Stacc](https://stacc.com/)
+**Working** → Fullstack Developer @ [Stacc](https://stacc.com/)
 
-🎮 **Gaming** → Nerding out for those spreadsheet sims
+**Gaming** → Nerding out for those spreadsheet sims
 
-🎵 **Music** → Working on that slap bass
+**Music** → Working on that slap bass
 
-🏋️ **Lifting** → Lifting & bouldering
-
-🏔️ **Friluftsliv** → Out in the wild, spotting dem birds
+**Friluftsliv** → Out in the wild, spotting dem birds
 
 ---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-arnegiacomo@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnegiacomo@gmail.com)
+[![arnegiacomo.dev](https://img.shields.io/badge/arnegiacomo.dev-FFDC58?style=for-the-badge&logoColor=000000)](https://arnegiacomo.dev)
 &nbsp;
-[![Discord](https://img.shields.io/badge/DISCORD-Arnegutten%234357-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4A1FF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/arne-giacomo-munthe-kaas-a77510155/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-FF30CD?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:arnegiacomo@gmail.com)
+&nbsp;
+![Discord](https://img.shields.io/badge/Arnegutten%234357-01FFCC?style=for-the-badge&logo=discord&logoColor=000000)
 
 </div>
